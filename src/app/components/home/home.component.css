@@ -1,0 +1,13 @@
+.profile-photo {
+    /* border-radius: 50%;
+    max-height: 100px; */
+}
+
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    color: white;
+}
+
+.site-header a {
+    color: white;
+}
