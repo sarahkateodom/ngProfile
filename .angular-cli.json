@@ -20,7 +20,6 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "css/slider.css",
         "../node_modules/ionicons/dist/css/ionicons.min.css",
         "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "../node_modules/wowjs/css/libs/animate.css"
