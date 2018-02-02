@@ -29,6 +29,7 @@
         "../node_modules/bootstrap/dist/js/bootstrap.min.js",
         "../node_modules/wowjs/dist/wow.min.js",
         "../node_modules/owl.carousel/dist/owl.carousel.min.js",
+        "../node_modules/jquery-fancybox/source/js/jquery.fancybox.js",
         "slider.js"
       ],
       "environmentSource": "environments/environment.ts",
