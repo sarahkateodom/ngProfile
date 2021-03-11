@@ -1,13 +1,10 @@
-import { Component, AfterViewInit } from '@angular/core';
-import { WOW } from 'wowjs/dist/wow.min';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.scss']
 })
-export class AppComponent implements AfterViewInit {
-  ngAfterViewInit(): void {
-    new WOW().init();
-  }
+export class AppComponent {
+  title = 'my-app';
 }
